@@ -22,6 +22,8 @@ Using Git and GitHub improves code safety, collaboration, and project organizati
 
 ![Git branching](https://www.nobledesktop.com/image/gitresources/git-branches-merge.png)
 
+### Feature update
+This section was added in the feature branch.
 ### Experiment
 Testing new ideas in experiment branch.
 
