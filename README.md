@@ -21,3 +21,6 @@ Using Git and GitHub improves code safety, collaboration, and project organizati
 ![GitHub logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ![Git branching](https://www.nobledesktop.com/image/gitresources/git-branches-merge.png)
+
+### Feature update
+This section was added in the feature branch.
