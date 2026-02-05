@@ -24,3 +24,6 @@ Using Git and GitHub improves code safety, collaboration, and project organizati
 
 ### Experiment
 Testing new ideas in experiment branch.
+
+### Testing
+This branch is used for testing changes.
